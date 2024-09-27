@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Tiago
 
-<!--
-**tiago-carreira/tiago-carreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer | Informatics Engineering Student @ ISEC
 
-Here are some ideas to get you started:
+I'm currently pursuing my degree in **Informatics Engineering** at [ISEC](https://www.isec.pt). I'm passionate about developing efficient and scalable software solutions, learning cutting-edge technologies, and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me:
+- **Currently Studying:** Informatics Engineering at ISEC
+- **Current Project:**
+  - Automated Inventory Management System with Arduino and ThingSpeak.
+ 
+### 🌱 Future Goals:
+- Collaborate with other developers on interesting and innovative software projects.
+
+### 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/tiago-carreira-205943240/)
+
+
+Feel free to check out my repositories! 🚀
