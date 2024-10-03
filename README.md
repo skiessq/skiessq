@@ -6,8 +6,6 @@ I'm currently pursuing my degree in **Informatics Engineering** at [ISEC](https:
 
 ### 🎓 About Me:
 - **Currently Studying:** Informatics Engineering at ISEC
-- **Current Project:**
-  - Automated Inventory Management System with Arduino and ThingSpeak.
  
 ### 🌱 Future Goals:
 - Collaborate with other developers on interesting and innovative software projects.
