@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Tiago
 
-### 🚀 Aspiring Software Engineer | Informatics Engineering Student @ ISEC
+### 🚀 Software Engineer Student | Informatics Engineering Student @ ISEC
 
-I'm currently pursuing my degree in **Informatics Engineering** at [ISEC](https://www.isec.pt). I'm passionate about developing efficient and scalable software solutions, learning cutting-edge technologies, and contributing to open-source projects.
+I'm currently enrolled in **Informatics Engineering** at [ISEC](https://www.isec.pt) specializing in Information Systems. I'm developing efficient and scalable software solutions, learning technologies, and contributing to open-source projects.
 
 ### 🎓 About Me:
 - **Currently Studying:** Informatics Engineering at ISEC
