@@ -35,7 +35,7 @@
 
 ---
 
-## Featured Projects
+## Contributions
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
