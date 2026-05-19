@@ -6,7 +6,7 @@
 
   <p align="center">
     <b>Informatics Engineering Student (Information Systems) at ISEC</b><br>
-    Focused on learning about Data Engineering, Machine Learning foundations, and scalable systems.
+    Focused on Data Engineering, core data infrastructures and ETL pipelines
   </p>
 
   <p align="center">
@@ -21,13 +21,16 @@
 
 ---
 
-## Tech Stack
+## Tech Stack & Data Engineering Skills
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/XML%20%7C%20Schema-00599C?style=for-the-badge" alt="XML" />
+  <img src="https://img.shields.io/badge/XPath%20%7C%20XQuery-4CAF50?style=for-the-badge" alt="XPath/XQuery" />
 
 </div>
 
@@ -35,11 +38,10 @@
 
 ---
 
-## Contributions
+## Open Source Contributions
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Godot Contributions](https://github.com/godotengine/godot/pulls?q=is:pr+author:skiessq)** | C++ Editor contributions (VisualShader logic fixes & UI/UX stability improvements). | `C++` |
+| **[Godot Contributions](https://github.com/godotengine/godot/pulls?q=is:pr+author:skiessq)** | C++ Editor core contributions (VisualShader logic fixes & UI/UX stability improvements). | `C++` |
 
 ---
-
