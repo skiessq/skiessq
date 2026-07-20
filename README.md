@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Data Engineering Skills
+## Tech Stack & Data Engineering Skills
 
 <div align="center">
 
