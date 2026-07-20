@@ -6,7 +6,7 @@
 
   <p align="center">
     <b>Informatics Engineering Student (Information Systems) at ISEC</b><br>
-    Focused on Data Engineering, core data infrastructures and ETL pipelines
+    Focused on Data Engineering, Modern Data Stack, and ELT pipelines.
   </p>
 
   <p align="center">
@@ -21,16 +21,16 @@
 
 ---
 
-## Tech Stack & Data Engineering Skills
+## 🛠️ Tech Stack & Data Engineering Skills
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/XML%20%7C%20Schema-00599C?style=for-the-badge" alt="XML" />
-  <img src="https://img.shields.io/badge/XPath%20%7C%20XQuery-4CAF50?style=for-the-badge" alt="XPath/XQuery" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/ELT_Pipelines-2F80ED?style=for-the-badge" alt="ELT Pipelines" />
 
 </div>
 
@@ -38,10 +38,18 @@
 
 ---
 
-## Open Source Contributions
+##  Data Engineering Project
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Abiotic Factor - End-to-End ELT Pipeline]((https://github.com/skiessq/abiotic_factor_companion))** | A complete data pipeline extracting unstructured game data, modeling complex relationships (recursive crafting, loot tables) into analytics-ready tables, and serving via an interactive dashboard. | `Python`, `DuckDB`, `dbt`, `Streamlit` |
+
+<br>
+
+---
+
+## Open Source Contribution
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[Godot Contributions](https://github.com/godotengine/godot/pulls?q=is:pr+author:skiessq)** | C++ Editor core contributions (VisualShader logic fixes & UI/UX stability improvements). | `C++` |
-
----
