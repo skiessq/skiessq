@@ -42,7 +42,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Abiotic Factor - End-to-End ELT Pipeline]((https://github.com/skiessq/abiotic_factor_companion))** | A complete data pipeline extracting unstructured game data, modeling complex relationships (recursive crafting, loot tables) into analytics-ready tables, and serving via an interactive dashboard. | `Python`, `DuckDB`, `dbt`, `Streamlit` |
+| **[Abiotic Factor - End-to-End ELT Pipeline](https://github.com/skiessq/abiotic_factor_companion)** | A complete data pipeline extracting unstructured game data, modeling complex relationships (recursive crafting, loot tables) into analytics-ready tables, and serving via an interactive dashboard. | `Python`, `DuckDB`, `dbt`, `Streamlit` |
 
 <br>
 
