@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/ELT_Pipelines-2F80ED?style=for-the-badge" alt="ELT Pipelines" />
 
 </div>
