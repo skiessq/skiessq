@@ -51,4 +51,4 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Godot Contributions](https://github.com/godotengine/godot/pulls?q=is:pr+author:skiessq)** | C++ Editor core contributions (VisualShader logic fixes & UI/UX stability improvements). | `C++` |
+| **[Godot Contributions](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3Askiessq+is%3Amerged)** | C++ Editor core contributions (VisualShader logic fixes & UI/UX stability improvements). | `C++` |
