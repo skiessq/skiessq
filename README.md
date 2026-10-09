@@ -34,18 +34,6 @@
 
 </div>
 
-<br>
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Space Traffic Management & Collision Risk](https://github.com/skiessq/space-traffic)** | End-to-end telemetry and CDM pipeline ingesting CelesTrak & ESA data, modeling orbital features with dbt/DuckDB, screening conjunctions via SGP4 mechanics, and predicting high-risk satellite close encounters using LightGBM. | `Python`, `DuckDB`, `dbt`, `LightGBM`, `SGP4` |
-
-<br>
-
 ---
 
 ## Open Source Contribution
