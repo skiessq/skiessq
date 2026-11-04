@@ -2,13 +2,6 @@
   <p align="center">
     <b>B.Sc. Informatics Engineering (Information Systems) at ISEC</b><br>
   </p>
-
-  <p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
 </div>
 
 ---
