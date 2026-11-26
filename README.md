@@ -1,12 +1,4 @@
-<div align="center">
-  <p align="center">
-    <b>B.Sc. Informatics Engineering (Information Systems) at ISEC</b><br>
-  </p>
-</div>
-
----
-
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
 
@@ -29,18 +21,17 @@
 
 ---
 
-### 🚀 Machine Learning Projects
+### Machine Learning Projects
 
 | Project | Focus | Stack | Key Highlights |
 | :--- | :--- | :--- | :--- |
-| **GeoLoq** | AI Visual Geolocation & Explainability | `PyTorch` `CNNs` `Grad-CAM` `SwarmPackagePy` | - Built an end-to-end data pipeline filtering and balancing 40k+ images from the OpenStreetView-5M dataset.<br>- Trained custom CNNs from scratch, reaching **>0.90 AUC-ROC** on global and urban benchmarks.<br>- Automated hyperparameter tuning using Swarm Intelligence (PSO) and integrated Grad-CAM heatmaps for explainable feature visualization. |
+| **[GeoLoq](https://huggingface.co/spaces/skiessq/GeoLoq)** | AI Visual Geolocation & Explainability | `PyTorch` `ResNet-101` `Grad-CAM` `SwarmPackagePy` `Gradio` | - Built Python scripts to curate and balance **40,000+** street-view images from the OpenStreetView-5M dataset across **19 countries** and **8 Portuguese cities**.<br>- Trained two custom CNN baselines from scratch (**0.52** and **0.66** macro F1, improved to **0.54** and **0.68** via swarm optimization) before fine-tuning pretrained **ResNet-101** models to reach **0.71** (+17 p.p.) on countries and **0.84** (+16 p.p.) on cities.<br>- Benchmarked PSO, Artificial Bee Colony (ABC), and Grid Search on learning rate and dropout.<br>- Integrated **Grad-CAM** heatmaps to visualize geographic decision cues and deployed an interactive public inference app on **Hugging Face Spaces**. |
 
 ---
 
-### 🌐 Open Source Contributions
+### Open Source Contributions
 
 | Repository | Scope | Stack | Details |
 | :--- | :--- | :--- | :--- |
 | **[godotengine/godot](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3Askiessq+is%3Amerged)** | Merged Core Contributions | `C++` | - **VisualShader:** Fixed graph duplication bug by rewriting node reparenting logic (cherry-picked for **4.6.2**).<br>- **FileSystemDock:** Refactored UI container theme variations and scroll-hint behavior to prevent panel blending when bottom-docked (cherry-picked for **4.6.3**). |
-
----
+```[cite: 1]
